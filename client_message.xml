@@ -1,0 +1,9 @@
+<client id="1" server_ip="127.0.0.1" interval="2000">
+<items>
+	<item name ="Free memory"/>
+	<item name ="Swapspace Used"/>
+	<item name ="CPU load"/>
+	<item name ="Disk space free" />
+	<item name ="IO Wait"/>
+</items>
+</client>
